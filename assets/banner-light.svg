@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+<rect width="1000" height="250" rx="12" fill="#ffffff"/>
+<text x="40" y="62" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="600" fill="#1f2328">Jaimin Kadiwal</text>
+<text x="40" y="92" font-family="'Segoe UI', 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#59636e">RTL design  ·  design verification  ·  FPGA  ·  MS ECE, Johns Hopkins</text>
+<line x1="150" y1="118" x2="150" y2="232" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="250" y1="118" x2="250" y2="232" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="350" y1="118" x2="350" y2="232" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="450" y1="118" x2="450" y2="232" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="550" y1="118" x2="550" y2="232" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="650" y1="118" x2="650" y2="232" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="750" y1="118" x2="750" y2="232" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="850" y1="118" x2="850" y2="232" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="2 4"/>
+<line x1="950" y1="118" x2="950" y2="232" stroke="#d1d9e0" stroke-width="1" stroke-dasharray="2 4"/>
+<text x="134" y="145" text-anchor="end" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="14" fill="#59636e">clk</text>
+<text x="134" y="185" text-anchor="end" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="14" fill="#59636e">valid</text>
+<text x="134" y="225" text-anchor="end" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="14" fill="#59636e">data</text>
+<path d="M150,152 L150,128 L200,128 L200,152 L250,152 L250,128 L300,128 L300,152 L350,152 L350,128 L400,128 L400,152 L450,152 L450,128 L500,128 L500,152 L550,152 L550,128 L600,128 L600,152 L650,152 L650,128 L700,128 L700,152 L750,152 L750,128 L800,128 L800,152 L850,152 L850,128 L900,128 L900,152 L950,152" fill="none" stroke="#1a7f37" stroke-width="2" stroke-linejoin="round"/>
+<path d="M150,192 L250,192 L250,168 L850,168 L850,192 L950,192" fill="none" stroke="#1a7f37" stroke-width="2" stroke-linejoin="round"/>
+<line x1="150" y1="220" x2="250" y2="220" stroke="#0969da" stroke-width="2"/>
+<line x1="850" y1="220" x2="950" y2="220" stroke="#0969da" stroke-width="2"/>
+<polygon points="250,220 258,208 442,208 450,220 442,232 258,232" fill="#0969da" fill-opacity="0.12" stroke="#0969da" stroke-width="2" stroke-linejoin="round"/>
+<text x="350.0" y="225" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="14" fill="#1f2328">RTL</text>
+<polygon points="450,220 458,208 642,208 650,220 642,232 458,232" fill="#0969da" fill-opacity="0.12" stroke="#0969da" stroke-width="2" stroke-linejoin="round"/>
+<text x="550.0" y="225" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="14" fill="#1f2328">verify</text>
+<polygon points="650,220 658,208 842,208 850,220 842,232 658,232" fill="#0969da" fill-opacity="0.12" stroke="#0969da" stroke-width="2" stroke-linejoin="round"/>
+<text x="750.0" y="225" text-anchor="middle" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" font-size="14" fill="#1f2328">FPGA</text>
+</svg>
