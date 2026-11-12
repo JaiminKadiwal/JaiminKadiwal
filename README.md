@@ -14,8 +14,8 @@ Below are the projects that are done and verified.
   round-robin arbiter. 7,500+ random checks, formal proofs of no overflow and no starvation.
 - **[fpga-keyword-spotting](https://github.com/JaiminKadiwal/fpga-keyword-spotting)**: int8 neural net in VHDL
   on an Artix-7. Bit exact with Python on 128/128 vectors, on the board.
-- **[Radiation-hardened SRAM](https://github.com/JaiminKadiwal/HP13T-fault-tolerence-SRAM-cell)**: 13T cell from
-  a published 16T design. Read SNM +33%, recovers from single-event upsets.
+- **[Radiation-hardened SRAM](https://github.com/JaiminKadiwal/HP13T-fault-tolerence-SRAM-cell)**: reproduced a
+  published 16T cell in 45 nm, then removed 3 transistors to see what they do. Read SNM +33%, hold SNM -64%.
 
 **Tools:** SystemVerilog, VHDL, Verilator, Icarus, cocotb, SymbiYosys, Yosys, Vivado, Cadence Genus / Innovus /
 Xcelium, Python, C++.
