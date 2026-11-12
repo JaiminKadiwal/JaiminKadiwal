@@ -14,6 +14,8 @@ Below are the projects that are done and verified.
   round-robin arbiter. 7,500+ random checks, formal proofs of no overflow and no starvation.
 - **[fpga-keyword-spotting](https://github.com/JaiminKadiwal/fpga-keyword-spotting)**: int8 neural net in VHDL
   on an Artix-7. Bit exact with Python on 128/128 vectors, on the board.
+- **[risc8-rtl-to-gdsii](https://github.com/JaiminKadiwal/risc8-rtl-to-gdsii)**: 8-bit CPU from Verilog to
+  signed-off 45 nm layout (Genus, Innovus, six-corner sign-off). Closes at 7 ns with +1.24 ns slack.
 - **[Radiation-hardened SRAM](https://github.com/JaiminKadiwal/HP13T-fault-tolerence-SRAM-cell)**: reproduced a
   published 16T cell in 45 nm, then removed 3 transistors to see what they do. Read SNM +33%, hold SNM -64%.
 
